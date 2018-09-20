@@ -1,6 +1,6 @@
 {
 
-    "name": "oat/taoDocs",
+    "name": "Norbert4sTao/extension-tao-docs",
     "description" : "",
     "type" : "tao-extension",
     "authors" : [
@@ -27,5 +27,5 @@
         "psr-4" : {
             "oat\\taoDocs\\" : ""
         }
-    } 
+    }
 }
